@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Entry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/HashMapX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/TestDashaMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/TestNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DashaMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DashaMaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/DashaMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/DashaMap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/DashaMap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/HashMapX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/HashMapX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/TestDashaMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/TestDashaMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/DashaMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/DashaMap1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/DashaMap2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/DashaMap2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/DashaMap3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/DashaMap3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/HashMapX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/HashMapX.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +172,7 @@
       <workItem from="1583515667185" duration="4212000" />
       <workItem from="1583522762116" duration="329000" />
       <workItem from="1583589681147" duration="41000" />
-      <workItem from="1583793645659" duration="3592000" />
+      <workItem from="1583793645659" duration="9492000" />
     </task>
     <servers />
   </component>
@@ -194,26 +189,26 @@
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state x="388" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583794627346" />
-    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1583797550116">
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1583857891097">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.bottom/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670198" />
-    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583797550116" />
-    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1583797550114">
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891097" />
+    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1583857891097">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.center/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670197" />
-    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583797550114" />
-    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1583797550111">
+    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891097" />
+    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1583857891096">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.left/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670196" />
-    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583797550111" />
-    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1583797550115">
+    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891096" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1583857891097">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.right/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670197" />
-    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583797550115" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891097" />
     <state width="1238" height="221" key="GridCell.Tab.1.bottom" timestamp="1583522670199">
       <screen x="0" y="23" width="1280" height="717" />
     </state>

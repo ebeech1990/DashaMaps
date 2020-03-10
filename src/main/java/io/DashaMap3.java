@@ -1,15 +1,15 @@
 package io;
 
 public class DashaMap3 implements HashMapX {
-    public void set(String key, String value) {
+    public void set(String key, Integer value) {
 
     }
 
-    public String delete(String key) {
-        return null;
+    public void delete(String key) {
+
     }
 
-    public String get(String key) {
+    public Integer get(String key) {
         return null;
     }
 
@@ -21,7 +21,7 @@ public class DashaMap3 implements HashMapX {
         return 0;
     }
 
-    public boolean bucketSize(String key) {
-        return false;
+    public int bucketSize(String key) {
+        return 0;
     }
 }
