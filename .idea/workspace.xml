@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/textReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/TestDashaMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/TestDashaMap3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/DashaMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/DashaMap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/DashaMap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/DashaMap3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/HashMapX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/HashMapX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/io/TestDashaMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/TestDashaMap1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/DashaMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/DashaMap1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/io/DashaMap2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/DashaMap2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/DashaMap3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/DashaMap3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/HashMapX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/HashMapX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/TestDashaMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/io/TestDashaMap1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestDashaMap1">
+  <component name="RunManager" selected="JUnit.TestDashaMap3">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -100,6 +99,38 @@
       </extension>
       <option name="PACKAGE_NAME" value="io" />
       <option name="MAIN_CLASS_NAME" value="io.TestDashaMap1" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDashaMap2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io" />
+      <option name="MAIN_CLASS_NAME" value="io.TestDashaMap2" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDashaMap3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io" />
+      <option name="MAIN_CLASS_NAME" value="io.TestDashaMap3" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -149,6 +180,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestDashaMap3" />
+        <item itemvalue="JUnit.TestDashaMap2" />
         <item itemvalue="JUnit.TestDashaMap1" />
         <item itemvalue="JUnit.TestNode" />
         <item itemvalue="Application.Dashamap" />
@@ -172,7 +205,7 @@
       <workItem from="1583515667185" duration="4212000" />
       <workItem from="1583522762116" duration="329000" />
       <workItem from="1583589681147" duration="41000" />
-      <workItem from="1583793645659" duration="9492000" />
+      <workItem from="1583793645659" duration="11327000" />
     </task>
     <servers />
   </component>
@@ -185,30 +218,34 @@
     </state>
     <state x="453" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583517066272" />
     <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583795709800" />
+    <state x="286" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583859871567">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="286" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583859871567" />
     <state x="388" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583794627346">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state x="388" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583794627346" />
-    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1583857891097">
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1583858947570">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.bottom/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670198" />
-    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891097" />
-    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1583857891097">
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583858947570" />
+    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1583858947569">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.center/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670197" />
-    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891097" />
-    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1583857891096">
+    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583858947569" />
+    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1583858947568">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.left/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670196" />
-    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891096" />
-    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1583857891097">
+    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583858947568" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1583858947569">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state width="1238" height="221" key="GridCell.Tab.0.right/0.23.1280.717/-284.-1057.1920.1057@0.23.1280.717" timestamp="1583522670197" />
-    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583857891097" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.725/-284.-1057.1920.1057@0.23.1280.725" timestamp="1583858947569" />
     <state width="1238" height="221" key="GridCell.Tab.1.bottom" timestamp="1583522670199">
       <screen x="0" y="23" width="1280" height="717" />
     </state>

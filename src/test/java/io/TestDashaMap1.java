@@ -5,12 +5,12 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class TestDashaMap1 {
-
+private DashaMap1 dm1;
 
 
     @Test
     public void constructorTest(){
-        DashaMap1 dm1 = new DashaMap1();
+         dm1 = new DashaMap1();
         char a = 'a';
         for (int i = 0; i < 26; i++) {
             char temp =  (char) (a+i);
@@ -21,7 +21,7 @@ public class TestDashaMap1 {
 
     @Test
     public void setTest(){
-        DashaMap1 dm1 = new DashaMap1();
+         dm1 = new DashaMap1();
         String expectedKey = "Bulbasaur";
         Integer expectedValue = 1;
 
@@ -31,7 +31,7 @@ public class TestDashaMap1 {
 
     @Test
     public void isEmptyTest(){
-        DashaMap1 dm1 = new DashaMap1();
+         dm1 = new DashaMap1();
         String expectedKey = "Bulbasaur";
         Integer expectedValue = 1;
 
@@ -41,7 +41,7 @@ public class TestDashaMap1 {
 
     @Test
     public void bucketSizeTest(){
-        DashaMap1 dm1 = new DashaMap1();
+         dm1 = new DashaMap1();
         String expectedKey = "Bulbasaur";
         Integer expectedValue = 1;
 
@@ -62,7 +62,7 @@ public class TestDashaMap1 {
 
     @Test
     public void sizeTest(){
-        DashaMap1 dm1 = new DashaMap1();
+         dm1 = new DashaMap1();
         String expectedKey = "Bulbasaur";
         Integer expectedValue = 1;
 
@@ -74,7 +74,7 @@ public class TestDashaMap1 {
 
     @Test
     public void removeTest(){
-        DashaMap1 dm1 = new DashaMap1();
+         dm1 = new DashaMap1();
         String expectedKey1 = "Bulbasaur";
         Integer expectedValue1 = 1;
         String expectedKey2 = "Ivysaur";
